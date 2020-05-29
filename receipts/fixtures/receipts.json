@@ -1,0 +1,27 @@
+[
+{
+    "model": "receipts.receipt",
+    "pk": 4,
+    "fields": {
+
+    }
+},
+{
+  "model": "receipts.item",
+  "pk": 7,
+  "fields": {
+      "description": "facebook",
+      "cost": "30.00",
+      "receipt": 4
+  }
+},
+{
+  "model": "receipts.item",
+  "pk": 8,
+  "fields": {
+      "description": "google",
+      "cost": "30.00",
+      "receipt": 4
+  }
+}
+]
